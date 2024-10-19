@@ -1,0 +1,96 @@
+[
+  {
+    "id": 3,
+    "title": "Learn Git basics",
+    "description": "Complete a tutorial on Git and GitHub fundamentals",
+    "priority": "low",
+    "status": false
+  },
+  {
+    "id": 4,
+    "title": "Implement a sorting algorithm",
+    "description": "Write and test quicksort and mergesort in Python",
+    "priority": "medium",
+    "status": false
+  },
+  {
+    "id": 5,
+    "title": "Explore RESTful APIs",
+    "description": "Create a small project that consumes a public REST API",
+    "priority": "medium"
+  },
+  {
+    "id": 6,
+    "title": "Debug an application",
+    "description": "Identify and fix bugs in a sample codebase",
+    "priority": "high",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Learn about responsive design",
+    "description": "Study CSS frameworks like Bootstrap or Tailwind CSS",
+    "priority": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Contribute to an open-source project",
+    "description": "Find a beginner-friendly GitHub project and submit a pull request",
+    "priority": "low"
+  },
+  {
+    "id": 9,
+    "title": "Create a simple game",
+    "description": "Develop a basic game using JavaScript or Python",
+    "priority": "medium"
+  },
+  {
+    "id": 10,
+    "title": "Master basic SQL queries",
+    "description": "Practice writing SELECT, INSERT, UPDATE, and DELETE queries",
+    "priority": "high"
+  },
+  {
+    "id": 11,
+    "title": "Automate a task with Python",
+    "description": "Write a script to automate a repetitive task on your computer",
+    "priority": "medium"
+  },
+  {
+    "id": 12,
+    "title": "Study algorithms and data structures",
+    "description": "Review and practice key algorithms like binary search and tree traversals",
+    "priority": "high"
+  },
+  {
+    "id": 13,
+    "title": "Learn about cloud services",
+    "description": "Familiarize yourself with AWS or Azure basics through their documentation",
+    "priority": "medium"
+  },
+  {
+    "id": 14,
+    "title": "Create a REST API",
+    "description": "Build a simple RESTful API using Flask or Express.js",
+    "priority": "high"
+  },
+  {
+    "id": 15,
+    "title": "Explore version control workflows",
+    "description": "Learn about branching strategies in Git and their best practices",
+    "priority": "medium"
+  },
+  {
+    "title": "vivek Bhardwaj",
+    "description": "pro",
+    "priority": "low",
+    "id": 1729361504290,
+    "status": true
+  },
+  {
+    "title": "Shiv",
+    "description": "Destroyer",
+    "priority": "high",
+    "id": 1729364339965
+  }
+]

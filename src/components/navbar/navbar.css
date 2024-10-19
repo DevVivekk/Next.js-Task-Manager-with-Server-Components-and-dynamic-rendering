@@ -1,0 +1,9 @@
+.navbar{
+    position: relative;
+}
+.navbar>svg{
+    position: fixed;
+    top: 5rem;
+    left: 2rem;
+    z-index: 10;
+}
